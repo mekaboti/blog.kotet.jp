@@ -14,7 +14,7 @@ _By H. S. Teoh, March 2017_
 
 <!-- One of D's oft\-touted features is its awesome "compile\-time" capabilities. However, said capabilities are also often the source of much confusion and misunderstanding, especially on the part of newcomers to D, often taking the form of questions posted to the discussion forum by frustrated users such as the classic: "Why can't the compiler read this value at compile\-time, since it's clearly known at compile\-time?!" -->
 
-よく宣伝文句にされるD言語の機能のひとつに、素晴らしい「コンパイル時」能力があります。
+
 しかしこの能力はしばしばD言語初心者の混乱と誤解を引き起こし、
 苛ついたユーザーはディスカッションフォーラムにこのような質問を投げかけることになります。
 「どう考えてもコンパイル時にわかる値なのに、
